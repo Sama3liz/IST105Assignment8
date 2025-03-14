@@ -9,6 +9,7 @@
 
 <body>
 	<h1>Network Simulator Tool</h1>
+	<h2>Server #</h2>
 	<form action="process.php" method="post">
         <label>MAC Address:</label>
         <input type="text" name="mac" required><br>
